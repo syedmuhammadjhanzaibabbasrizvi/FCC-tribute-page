@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#main {
+  font-family: sans-serif;
+  background-color: lightgray;
+  padding: 20px 10px 10px 10px;
+  margin: 10px;
+}
+#title {
+  text-align: center;
+  font-size: 60px;
+}
+p {
+  text-align: center;
+}
+#img-div {
+  background-color: white;
+  margin: 10px 10px 10px 10px;
+  padding: 4px 0px 5px 0px;
+}
+#image {
+  width: 540px;
+  height: auto;
+}
+#img-caption {
+  text-align: center;
+  margin-top: 10px;
+}
+#hone {
+  text-align: center;
+}
+li {
+  margin: auto;
+  text-align: center;
+  list-style-type: none;
+}
